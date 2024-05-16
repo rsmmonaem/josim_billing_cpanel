@@ -1,0 +1,20 @@
+[01-May-2024 06:16:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASEPATH" in /home3/amrshopi/josim.amrshoping.com/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/amrshopi/josim.amrshoping.com/index.php on line 3
+[01-May-2024 06:18:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASEPATH" in /home3/amrshopi/josim.amrshoping.com/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/amrshopi/josim.amrshoping.com/index.php on line 3
+[01-May-2024 06:19:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASEPATH" in /home3/amrshopi/josim.amrshoping.com/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/amrshopi/josim.amrshoping.com/index.php on line 3
+[01-May-2024 06:20:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASEPATH" in /home3/amrshopi/josim.amrshoping.com/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/amrshopi/josim.amrshoping.com/index.php on line 3
+[01-May-2024 06:20:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASEPATH" in /home3/amrshopi/josim.amrshoping.com/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/amrshopi/josim.amrshoping.com/index.php on line 3

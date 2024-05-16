@@ -1,0 +1,2 @@
+[09-Aug-2023 09:31:32 UTC] PHP Fatal error:  Cannot redeclare Admin::get_user() in /home1/amrshopi/public_html/application/controllers/Admin.php on line 48
+[09-Aug-2023 09:31:33 UTC] PHP Fatal error:  Cannot redeclare Admin::get_user() in /home1/amrshopi/public_html/application/controllers/Admin.php on line 48

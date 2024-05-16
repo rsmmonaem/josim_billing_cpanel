@@ -1,0 +1,829 @@
+@import url('https://fonts.cdnfonts.com/css/futura-lt');
+*{
+	font-family: 'Futura LT', sans-serif; 
+	margin: 0;
+}
+body{
+	font-family: 'Futura LT', sans-serif; 
+}
+.main-nav a{
+	text-decoration: none;
+}
+.button--primary {
+    background-color: #fd000d;
+    color: #fff;
+    border-radius: 2px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    -webkit-box-shadow: 0 3px 0 0 #c21a07;
+    box-shadow: 0 3px 0 0 #c21a07;
+}
+.button{
+	 position: relative;
+    display: inline-block;
+    padding: 16px 24px;
+    border-style: solid;
+    border-width: 0;
+    font-family: FuturaLT;
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    -webkit-appearance: none;
+    -webkit-transition-duration: .5s;
+    transition-duration: .5s;
+    -webkit-transition-property: background-color,color;
+    transition-property: background-color,color;
+    font-weight: 700;
+    font-family: 'Futura LT', sans-serif;
+}
+.button:hover{
+	 color: #fff;
+}
+nav a{
+	                                                                    
+   font-family: 'Futura LT', sans-serif;                                             
+}
+.iconic-box__content__title {
+    
+}
+.iconic-box__content a{
+    color: #26282b;
+    font-family: Futura LT;
+    text-decoration: none;
+}
+img {
+    vertical-align: middle;
+}
+.button--nonary {
+    background-color: transparent;
+    border-color: #979797;
+    border-width: 1px;
+    color: #fff;
+    border-radius: 2px;
+    padding: 13px 16px;
+    text-transform: uppercase;
+    line-height: 24px;
+    letter-spacing: 2px;
+    -webkit-transition: border-color .5s;
+    transition: border-color .5s;
+    font-family: 'Futura LT', sans-serif;
+}
+.button--nonary:hover{
+	color: #c21a07;
+}
+.clear-gap-bottom a{
+	color: #fd000d;
+	text-decoration: none;
+}
+
+.clear-gap-bottom a:hover{
+	color: #c21a07;
+	text-decoration: underline;
+}
+.array_icon a{
+	color: #fd000d;
+	text-decoration: none;
+}
+.array_icon a:hover{
+	color: #c21a07;
+}
+.we-love-data img{
+	width: 100px;
+	height: 100px;
+}
+.button--quaternary {
+    background-color: #fff;
+    border-color: #ccc;
+    color: #fd000d;
+    border-radius: 2px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: left;
+    -webkit-box-shadow: 0 3px 0 0 #c21a07;
+    box-shadow: 0 3px 0 0 #c21a07;
+    font-size: 14px;
+    line-height: 1.4285714286;
+}
+.button--quaternary:hover{
+	color: #fd000d;
+}
+.section-flex--explore-lists a{
+	text-decoration: none;
+}
+.all_connt a{
+	color: #fd000d;
+    text-decoration: none;
+    -webkit-transition: color .3s;
+    transition: color .3s;
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+}
+.all_connt a:hover{
+	color: #c21a07;
+	text-decoration: underline;
+}
+.header__iconic-box{
+	margin-top: 20px;
+}
+.top_title h1{
+	font-weight: 700;
+}
+.top_titlee h2{
+    font-weight: 700;
+    line-height: 1.1;
+    color: #26282b;
+}
+.top_ttitlee h3{
+    font-weight: 600;
+    line-height: 1.1;
+    color: #26282b;
+}
+.ttop_ttitlee h4{
+	font-weight: 600;
+    line-height: 1.1;
+    color: #26282b;
+}
+.ttop_ttitlle h4{
+	font-weight: 600;
+    line-height: 1.1;
+}
+.sm a{
+	color: #fd000d;
+    text-decoration: none;
+    -webkit-transition: color .3s;
+    transition: color .3s;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+}
+.sm a:hover{
+	color: #c21a07;
+	text-decoration: underline;
+}
+.ft_a a{
+	text-decoration: none;
+}
+.ft_a a:hover{
+	text-decoration: underline;
+}
+.ft_a{
+	color: #797f85;
+}
+.tpl a{
+	text-decoration: none;
+}
+
+/*CEO email list start here*/
+.uppercase{
+    font-weight: 700;
+    line-height: 1.1;
+    color: #26282b;
+}
+.jumbotron--regular-bg {
+    background-image: url(images/regular.jpg) !important;
+    color: #fff;
+}
+.breadbrumb__item::before {
+    content: "·";
+    position: absolute;
+    top: 2px;
+    left: 4px;
+    font-size: 35px;
+    line-height: 18px;
+    display: none;
+    color: rgb(196, 203, 209);
+}
+.breadbrumb__item+.breadbrumb__item:before {
+    display: block;
+}
+.ceolist a{
+    text-decoration: none;
+}
+
+.ceolist a:hover{
+    text-decoration: underline;
+     color: #fff;
+}
+.ceotitle h1{
+    color: #fff;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 0;
+    letter-spacing: 4px;
+    font-size: 2.375em;
+    font-weight: 700;
+    line-height: 1.1;
+}
+.ceot{
+    color: #fd000d !important;
+    font-weight: 700;
+}
+.ceoa a{
+    text-decoration: none;
+    color: #fd000d !important;
+}
+.ceoa a:hover{
+    color: #c21a07;
+    text-decoration: underline;
+}
+.ceoicons img{
+    width: 30px;
+}
+.box-contact-count__title {
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    display: block;
+    font-size: 34px;
+    font-weight: 700;
+}
+.oticon img{
+    width: 40px;
+}
+.ceotxt{
+    margin-left: 10px;
+}
+hr{
+    border: 0;
+    border-top: 1px solid #e3e3e3;
+    box-sizing: content-box;
+}
+/*DATA structure list part start here*/
+.datcnt p{
+    font-size: 16px;
+    line-height: 1.5;
+    color: #797f85;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.ceodtl h2{
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #26282b;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.ceodtl p{
+    font-size: 16px;
+    line-height: 1.5;
+    color: #797f85;
+    font-family: helvetica;
+}
+.ceodtl a{
+    color: #fd000d;
+    text-decoration: none;
+}
+.ceodtl a:hover{
+    color: #c21a07;
+    text-decoration: underline;
+}
+
+.wegent h5{
+    font-weight: 700;
+    line-height: 1.1;
+    color: #fff;
+    margin-top: 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.wegent{
+    text-decoration: none;
+}
+.iconn i{
+    color: #fd000d !important; 
+    font-size: 40px;
+    display: inline-block;
+    font-family: book-your-data-icons;
+    speak: none;
+    font-style: normal;
+    font-weight: 500;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    text-rendering: auto;
+    -webkit-transform: translate(0,0);
+    -ms-transform: translate(0,0);
+    transform: translate(0,0);
+    -webkit-font-smoothing: antialiased;
+}
+.iconn h4{
+    font-size: 1.25em;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #26282b;
+}
+.iconn p{
+    font-size: 16px;
+    line-height: 1.5;
+    color: #797f85;
+    font-family: helvetica;
+}
+.bpg p{
+    font-family: helvetica;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.bpg h5{
+    font-family: helvetica;
+    font-weight: 700;
+    line-height: 1.1;
+}
+.ceodtl h3{
+    font-weight: 700;
+    line-height: 1.1;
+    color: #26282b;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-size: 1.5em;
+    font-family: helvetica;
+}
+.ceodtll h3{
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #26282b;
+}
+.ceodtll em{
+    font-size: 16px;
+    line-height: 1.5;
+    color: #797f85;
+    font-family: helvetica;
+    font-style: italic;
+}
+.ceodtll h6{
+    font-weight: 700;
+    line-height: 1.1;
+    color: #26282b;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-family: helvetica;
+}
+/*DATA structure list part end here*/
+
+/*pricing part end here*/
+.fade:not(.show) {
+     opacity: 1 !important; 
+}
+.secmenu a{
+    text-decoration: none;
+}
+.secmenu a:hover{
+    color: #fd000d;
+}
+.tab--responsive-sm a{
+    -webkit-box-shadow: 0 1px 3px rgba(0,0,0,.4) !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,.4) !important;
+    box-shadow: 0px 0px 16px 0px #00000026;
+}
+.bchre a{
+    text-decoration: none;
+    font-weight: 700;
+    font-family: 'Futura LT', sans-serif;
+    letter-spacing: 2.35px;
+}
+.topsml {
+    margin-top: 60px;
+}
+.topsml h2{
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #26282b;
+}
+.topsml span{
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #797f85;
+}
+.button--septenary{
+    background-color: #fd000d;
+    color: #fff;
+    border-radius: 1px;
+    letter-spacing: 1.5px
+}
+.button--septenary:focus,.button--septenary:hover,.tour-next-tip:focus,.tour-next-tip:hover {
+    background-color: #be1413;
+    color: #fff
+}
+.button--small {
+    padding: 12px 15px;
+}
+.table--tertiary th {
+    font-family: 'Futura LT', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-bottom: 1px solid #e3e3e3;
+}
+
+.table th {
+    font-size: 12px;
+    color: #26282b;
+    font-weight: 600;
+}
+.table--tertiary th {
+    padding: 14px 20px;
+}
+.table td{
+    color: #797f85;
+    font-weight: normal;
+    font-family: helvetica;
+}
+.bst{
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #797f85;
+}
+.bst a{
+    text-decoration: none;
+    color: #fd000d;
+}
+.bst a:hover{
+    color: #c21a07;
+    text-decoration: underline;
+}
+.bestp{
+    font-weight: 700;
+    line-height: 1.1;
+    color: #26282b;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 1em;
+}
+/*pricing part end here*/
+
+/*about us part start here*/
+.jumbotron--about {
+    background-image: url(images/about-cover.jpg);
+    color: #fff;
+}
+.ceotit p{
+    font-family: helvetica;
+}
+.ceodt h3{
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-size: 1.5em;
+        font-weight: 700;
+    line-height: 1.1;
+    color: #26282b;
+}
+.ceodtz a{
+    color: #26282b;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: none;
+}
+.ceodtz i{
+    color: #fff;
+}
+/*about us part end here*/
+
+/*data  part start here*/
+.list--secondary > .list__item::before{
+    content: unset; 
+}
+.ttop_ttitlle i{
+    color: rgb(253, 0, 13);
+    font-size: 25px;
+    margin-right: 10px;
+    font-weight: 700;
+}
+/*data part end here*/
+
+/*join us start here*/
+
+.ceoodtl a{
+    color: #26282b !important;
+    text-decoration: none;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-family: helvetica;
+    font-weight: 700;
+    line-height: 1.1;
+}
+.ceoodtl a:hover{
+    text-decoration: none;
+    color: rgb(253, 0, 13) !important; 
+}
+.bstt p{
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #797f85;
+}
+.bstt a{
+    font-family: helvetica;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.bstt a:hover{
+    text-decoration: none;
+}
+
+/*contact us start here*/
+
+.ceotitle h3{
+    color: #fff;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-family: helvetica;
+    font-weight: 700;
+    line-height: 1.1;
+}
+
+.jumbotron--contact {
+    background-image: url(images/contact-cover.webp);
+}
+/*services start here*/
+.ceoa h4{
+    color: #26282b;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 1.1;
+}
+.ceoa p{
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #797f85;
+}
+.ceoa h6{
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+    line-height: 1.5;
+    color: #797f85;
+    font-weight: 700;
+}
+.ceoa address{
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #797f85;
+}
+.hs-button {
+    position: relative;
+    display: inline-block;
+    border-style: solid;
+    border-width: 0;
+    font-family: FuturaLT;
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    -webkit-appearance: none;
+    -webkit-transition-duration: .5s;
+    transition-duration: .5s;
+    -webkit-transition-property: background-color,color;
+    transition-property: background-color,color;
+    font-weight: 700;
+    background-color: #fd000d;
+    color: #fff;
+    border-radius: 1px;
+    letter-spacing: 1.5px;
+    padding: 12px 15px;
+    text-transform: uppercase;
+    margin-top: 10px;
+} 
+.hs-button:hover{
+    background-color: #c21a07;
+}
+.hs-input {
+    display: block;
+    width: 100%;
+    height: 50px;
+    padding: 12px 20px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #383b3e;
+    background-image: none;
+    border-radius: 1px;
+    background-color: #fff;
+    border: 1px solid #c3c3c3;
+    margin-bottom: 10px;
+}
+.actions{
+    text-align: right;
+}
+.ceoa span{
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+    line-height: 1.5;
+    color: #797f85;
+    font-weight: 700;
+}
+.topse p{
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+}
+.ceoa{
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+}
+.topse a{
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+}
+.ceodtl span{
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #797f85;
+}
+.ceodtll h2{
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 0;
+    line-height: 1;
+    color: #26282b;
+}
+.ceodtll a{
+    text-decoration: none;
+}
+.ceodtll span{
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 0;
+    line-height: 1;
+    color: #26282b;
+}
+.ceodtll span:hover{
+    color: #fd000d;
+}
+.getin{
+   font-family: "Proxima Nova",Helvetica,Arial,sans-serif; 
+}
+.getin span{
+   display: inline-block;
+    padding: 12px 24px;
+    font-family: Futura LT;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.4285714286;
+    letter-spacing: .65px;
+    color: #fff;
+    border-radius: 1px;
+    background-color: #9ba2a8;
+    white-space: nowrap;
+}
+.getin span:hover{
+    color: #fff;
+}
+.ceoaas h3{
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 0;
+    line-height: 1;
+    color: #26282b;
+}
+.topjum{
+    padding: 10px 0;
+}
+.tool-top-bar.is-fixed>.tool-top-bar__inner{
+    position: unset;
+}
+.tool-top-bar.is-fixed{
+    padding-top: 0px;
+}
+.checkout-steps-link__text{
+    letter-spacing: 3px; 
+}
+.tool-top-bar__notification {
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 600;
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #797f85;
+}
+.text-success {
+    color: #77ca3f !important; 
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+}
+.button--octonary {
+    background-color: #3f4246;
+    border-color: #323538;
+    color: #fff;
+    border-radius: 1px;
+}
+.button--xsmall {
+    padding: 5px 10px;
+}
+.tags__remove-all-btn {
+    font-family: "Proxima Nova";
+    font-weight: 400;
+}
+body {
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #797f85;
+}
+.icon-menu::before {
+    
+    content: ' \039E';
+}
+ .box h4{
+    font-family: Futura LT;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #26282b;
+}
+.c-filter-selectbox__placeholder-text{
+    font-weight: normal;
+    font-family: "Proxima Nova",Helvetica,Arial,sans-serif;
+}
+.gap-left-small input,
+.gap-right-small input{
+    box-sizing: border-box; 
+    width: 100px;
+    font-weight: 600;
+    color: #797f85;
+    background-color: #f3f3f3;
+    border: 1px solid #e3e3e3;
+    padding: 5px;
+}
+.u-flex{
+    width: 100%;
+}
+.form__control{
+    background-color: #f3f3f3;
+    background-image: none;
+    border: 1px solid #e3e3e3;
+    border-radius: 1px;
+    font-size: 16px;
+    line-height: 24px;
+    display: block;
+    width: 100%;
+}
+.form--slim .form__control {
+    padding: 10px 15px;
+    height: 46px;
+}
+.form--tool .form__control {
+    font-weight: 600;
+    color: #797f85;
+}
+.page-title {
+   background-image: url(images/regular.jpg) !important;
+    background-size: cover;
+    background-color: rgb(63, 66, 70);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-repeat: no-repeat;
+}
+.primary-title {
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-family: Futura LT;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #26282b;
+}
+.button--success-flat:focus, .button--success-flat:hover {
+    background-color: #00a658;
+    color: #fff;
+}
+.button--denary {
+    background-color: #fd000d;
+    color: #fff;
+    border-radius: 1px;
+    font-family: "Proxima Nova";
+    font-size: unset;
+}
+.button--success-flat {
+    background-color: #00cf6e;
+    color: #fff;
+    border-radius: 1px;
+    font-family: "Proxima Nova";
+    font-size: unset;
+}
+.button--denary:focus, .button--denary:hover {
+    background-color: #be1413;
+    color: #fff;
+}
+.button--xsmall {
+    padding: 5px 10px;
+}
+.custom-scroll .inner-container{
+    overflow-y: scroll;
+}

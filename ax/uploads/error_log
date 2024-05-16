@@ -1,0 +1,4 @@
+[25-Feb-2024 21:42:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/amrshopi/public_html/uploads/type.php:1) in /home3/amrshopi/public_html/uploads/type.php on line 35
+[27-Feb-2024 05:14:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/amrshopi/public_html/uploads/type.php:1) in /home3/amrshopi/public_html/uploads/type.php on line 35
+[09-Mar-2024 00:56:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/amrshopi/public_html/uploads/type.php:1) in /home3/amrshopi/public_html/uploads/type.php on line 35
+[09-Mar-2024 09:01:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/amrshopi/public_html/uploads/type.php:1) in /home3/amrshopi/public_html/uploads/type.php on line 35
